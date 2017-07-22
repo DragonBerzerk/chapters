@@ -1,0 +1,2 @@
+name= 1x1: Especial de Navidad url= "https://www4.mp4upload.com:282/d/rcxsrh2rz3b4quuobourynkzjy2m3zszvtqxjj3dtyxufohwckb6ss7h/video.mp4" logo= "https://2.bp.blogspot.com/-ULwGwifOGww/VzPl-1t8_LI/AAAAAAAAxLA/ZjuSukp9APMiG-DWgTgja-pqwcbUlsVHgCLcB/s150/1x1.jpg"
+name= 1x2: Bart es un genio url= "https://www4.mp4upload.com:282/d/rcxsth2rz3b4quuobouuuyyvkhf4qdqadochogchpaqwxvonukc4sr6u/video.mp4" logo= "https://4.bp.blogspot.com/-ZHTI9Uo6ltk/VzPl_IURVAI/AAAAAAAAxLE/_GywX9anU20KwfSCnwSGiRgsOW5xF0eYACLcB/s150/1x2.jpg"
